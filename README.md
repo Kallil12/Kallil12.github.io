@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to my Page on Github
 
-You can use the [editor on GitHub](https://github.com/Kallil12/Kallil12.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+If you are here it's probably because you want to know a little about me, so let's get to that.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm a bachelor at Science and Technology, and right now I'm a undergrad in Computer Engineering. Since I was studying Science and Technology I fell in love with Probability and Statistcs, so I started to run after that as a career. Studying Data Science tools, R, Python, SQL and other stuff alike became a must, I'm still on it and I guess that it will never stop. To be updated is a constant work, so one can never say it's finished. In 2014 I traveled to the USA and studiend 2 semesters at Widener University, this year was very important to me because it made my mind about computer engineering as the best option for me (my options back then were Mechanical, Materials, Computer and Petroleum Engineering). I came back to Brazil, finished Science and Technology and started Computer Engineering 2 years later. 
 
-### Markdown
+Right now I'm working with Business Intelligence at "Justiça Federal do Rio Grande do Norte" or Federal Justice. I'm helping creating some dashboards to help the managers of public resources to better understand how much and where the money is being spent, how many processes are stuck and where and other stuff that will take too much space here. Also, I'm working a bit with Python as a webscrapper to automatize some mechanical activities, so a bot made with Python is doing some stuff around here.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+As a hobby I try to fix some old computers, mainly ThinkPads (they are just awesome), and cars, one day I will have a Porsche 911 82' and write about that here (just wait and see). But these are talks to another day.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Kallil12/Kallil12.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you want to talk to me just email me at [kallilaraujo@gmail.com] or use my [LinkedIn](https://www.linkedin.com/in/kallil-d-379125150/)

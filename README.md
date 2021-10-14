@@ -8,4 +8,4 @@ Right now I'm working with Business Intelligence at "Justiça Federal do Rio Gra
 
 As a hobby I try to fix some old computers, mainly ThinkPads (they are just awesome), and cars, one day I will have a Porsche 911 82' and write about that here (just wait and see). But these are talks to another day.
 
-If you want to talk to me just email me at <kallilaraujo@gmail.com> or use my [LinkedIn](https://www.linkedin.com/in/kallil-d-379125150/), my curriculum is available in [Portuguese](https://www.dropbox.com/s/j6aa714e6l7drgj/Curriculum_ptbr_Kallil.pdf?dl=0) or English (soon).
+If you want to talk to me just email me at <kallilaraujo@gmail.com> or use my [LinkedIn](https://www.linkedin.com/in/kallil-d-379125150/).

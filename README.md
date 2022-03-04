@@ -4,18 +4,18 @@
 
 #### Business Intelligence Analyst/Data Analyst at Rio Grande do Norte State Court of Justice (03/2021 - today)
 
-1. I've been working mainly with Pentaho and SQL. R and Python are frequently used to make data analysis.
-2. My work routine is to extract data that will be used for other sectors and managers, before sending this data I must validate and check for errors and/or inconsistencies.
+1. I've been working mainly with Pentaho and SQL. Additionally, R and Python are frequently used to make data analysis.
+2. My work routine is to extract data that will be used for other sectors and managers. Before sending it I must validate and check for errors and/or inconsistencies.
 
 #### Business Intelligence Analyst at TOTVS (01/2021 - 02/2021)
 
-1. During this short period I helped to develop new data visualizations for TOTVS' clients. The tool used was in its initial stages of development and was called GoodData.
+1. I helped to develop new data visualizations for TOTVS' clients. The tool used was in its initial stages of development and was called GoodData.
 
 #### Business Intelligence Analyst at Rio Grande do Norte Federal Court of Justice (03/2019 - 11/2020)
 
-1. In this period I helped to develop a dashboard (using Python) that showed the most frequent classes of lawsuits.
-2. Me and my team helped to define some processes, resulting in a cut of wasted time.
-3. Me and my team developed a Python script to fill some forms that were manually filled by other workers. Reducing the time to make this task from 5 minutes to 45 seconds.
+1. I helped to develop a dashboard (using Python) that showed the most frequent subjects of lawsuits.
+2. Me and my team helped to standardize some processes, optimizing the time invested in those tasks.
+3. Me and my team developed a Python script to fill some forms that were manually filled by other workers, reducing the time to make this task from 5 minutes to 45 seconds.
 4. I helped to maintain and develop some Qlikview scripts.
 
 ### Education:

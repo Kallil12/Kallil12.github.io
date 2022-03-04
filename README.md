@@ -1,6 +1,6 @@
 ## This is a detailed version of what can be found on my LinkedIn profile
 
-### Professional experience
+### Professional experience:
 
 #### Business Intelligence Analyst/Data Analyst at Rio Grande do Norte State Court of Justice (03/2021 - today)
 
@@ -18,25 +18,25 @@
 3. Me and my team developed a Python script to fill some forms that were manually filled by other workers. Reducing the time to make this task from 5 minutes to 45 seconds.
 4. I helped to maintain and develop some Qlikview scripts.
 
-## Education
+### Education:
 
-### Federal University of Rio Grande do Norte (2018 - 2021)
+#### Federal University of Rio Grande do Norte (2018 - 2021)
 Bachelor in Computer Engineering
 
-### Federal University of Rio Grande do Norte (2019 - 2020)
+#### Federal University of Rio Grande do Norte (2019 - 2020)
 Specialist in Business Intelligence - Information Technology Program at *Instituto Metrópole Digital*
 
-### Widener University (06/2014 - 06/2015)
+#### Widener University (06/2014 - 06/2015)
 Engineering exchange student (1 year)
 
-### Federal University of Rio Grande do Norte (2013 - 2018)
+#### Federal University of Rio Grande do Norte (2013 - 2018)
 Bachelor in Science and Technology - basic cycle of engineering
 
-## Other skills
+### Other skills:
 
 1. I speak portuguese (native) and english (fluent).
 2. I frequently use LaTeX software to make reports and presentations
 
-## Contact
+### Contact:
 
 If you wish to talk to me, just send an email at <kallilaraujo@gmail.com> or use LinkedIn's chat [here](https://www.linkedin.com/in/kallil-d-379125150/).
